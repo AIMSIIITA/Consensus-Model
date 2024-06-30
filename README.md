@@ -1,6 +1,6 @@
 # Consensus-Model
 
-[![Owner](![GitHub profile picture](https://github.com/DebjyotiRay.png))](https://github.com/AIMSIIITA)
+[!(![GitHub profile picture](https://github.com/DebjyotiRay.png))](https://github.com/AIMSIIITA)
 
 ## Table of Contents
 
