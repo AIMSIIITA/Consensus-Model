@@ -126,7 +126,7 @@ This branch involved extensive experimentation to refine the voter model, ensuri
 
 ## Example/Preview
 
-![Obstacle Avoidance Simulation](branches/main/obstacles_avoidance_simulation.mov)
+![Obstacle Avoidance Simulation](https://drive.google.com/file/d/1DffHNHmpt2MjfAZZjY0ZhcUi1HNoK3n2/view?usp=drive_link)
 
 ## Contributing Guidelines
 
