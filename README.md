@@ -1,6 +1,6 @@
 # Consensus-Model
 
-[![Owner](https://avatars.githubusercontent.com/u/000000?v=4)](https://github.com/AIMSIIITA)
+[![Owner]](https://github.com/AIMSIIITA)
 
 ## Table of Contents
 
@@ -41,10 +41,10 @@ In this branch, extensive work has been done to ensure that the simulations are 
 
 **Key Files/Directories**:
 - [README.md](README.md): Project overview and instructions.
-- [CONSENSUS AND OBSTACLE AVOIDANCE USING VOTER MODEL.py](branches/main/CONSENSUS%20AND%20OBSTACLE%20AVOIDANCE%20USING%20VOTER%20MODEL.py): Implementation of the voter model for consensus and obstacle avoidance.
-- [Democratic Swarms Navigating Collision Avoidance through Consensus Decision Making with the voter model.pptx](branches/main/Democratic%20Swarms%20Navigating%20Collision%20Avoidance%20through%20Consensus%20Decision%20Making%20with%20the%20voter%20model.pptx): Presentation on the voter model.
-- [obstacles_avoidance_simulation.mov](branches/main/obstacles_avoidance_simulation.mov): Simulation video.
-- [votermodelresearchpaper.pdf](branches/main/votermodelresearchpaper.pdf): Research paper on the voter model.
+- [CONSENSUS AND OBSTACLE AVOIDANCE USING VOTER MODEL.py](https://github.com/AIMSIIITA/Consensus-Model/blob/main/CONSENSUS%20AND%20OBSTACLE%20AVOIDANCE%20USING%20VOTER%20MODEL.py): Implementation of the voter model for consensus and obstacle avoidance.
+- [Democratic Swarms Navigating Collision Avoidance through Consensus Decision Making with the voter model.pptx](https://github.com/AIMSIIITA/Consensus-Model/blob/main/Democratic%20Swarms%20Navigating%20Collision%20Avoidance%20through%20Consensus%20Decision%20Making%20with%20the%20voter%20model.pptx): Presentation on the voter model.
+- [obstacles_avoidance_simulation.mov](https://github.com/AIMSIIITA/Consensus-Model/blob/main/obstacles%20avoidance%20simulation.mov): Simulation video.
+- [votermodelresearchpaper.pdf](https://github.com/AIMSIIITA/Consensus-Model/blob/main/votermodelresearchpaper.pdf): Research paper on the voter model.
 
 ### Branch 1: HK Model
 
