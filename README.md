@@ -134,13 +134,7 @@ This branch involved extensive experimentation to refine the voter model, ensuri
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Commit your changes (`git commit -m 'Add some feature
 
-Sure, here's a more comprehensive and detailed README for your Consensus-Model repository:
 
----
-
-# Consensus-Model
-
-[![Owner](https://avatars.githubusercontent.com/u/000000?v=4)](https://github.com/AIMSIIITA)
 
 ## Table of Contents
 
