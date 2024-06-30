@@ -144,7 +144,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact Information
 
-For any questions or suggestions, please contact us at [contact@aimsiiita.org](mailto:contact@aimsiiita.org).
+For any questions or suggestions, please contact us at [iec2022111@iiita.ac.in](mailto:iec2022111@iiita.ac.in).
 
 ---
 
