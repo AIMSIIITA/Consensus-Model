@@ -1,6 +1,6 @@
 # Consensus-Model
 
-[![GitHub profile picture](https://github.com/DebjyotiRay.png)](https://github.com/AIMSIIITA)
+
 
 ## [JOURNAL PAPER:](https://drive.google.com/file/d/1Wiiu2n80-7fq6-muximn-KOM70P2HBTi/view)
 ## Table of Contents
